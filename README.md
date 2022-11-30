@@ -63,14 +63,22 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/fyFKnde_Jz8)**</i>
 
-<details><summary>Deploy To Heroku</summary>
+<details><summary>Deploy To Railway</summary>
+
 <p>
+
 <br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+
+<a href="https://railway.app?referralCode=PR0FESS0R-99">
+
+  <img src="https://railway.app/button.svg" alt="Deploy">
+
 </a>
+
 </p>
+
 </details>
+
 
 <details><summary>Deploy To VPS</summary>
 <p>
