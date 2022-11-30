@@ -69,7 +69,7 @@ You can deploy this bot anywhere.
 
 <br>
 
-<a href="https://railway.app?referralCode=PR0FESS0R-99">
+<a href="https://railway.app?referralCode=Pooja0033">
 
   <img src="https://railway.app/button.svg" alt="Deploy">
 
