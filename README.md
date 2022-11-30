@@ -63,21 +63,7 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/fyFKnde_Jz8)**</i>
 
-<details><summary>Deploy To Railway</summary>
 
-<p>
-
-<br>
-
-<a href="https://railway.app?referralCode=Pooja0033">
-
-  <img src="https://railway.app/button.svg" alt="Deploy">
-
-</a>
-
-</p>
-
-</details>
 
 
 <details><summary>Deploy To VPS</summary>
